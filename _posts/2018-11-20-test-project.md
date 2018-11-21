@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test project
+title: Tree Project
 categories: tree
 thumbnail: /img/uploads/tree.ring.arp.jpg
 ---
